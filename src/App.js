@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>branch 1200</h1>
+        <h1>branch 12</h1>
         <p>LOREM;
       LOREM LOREM</p>
       <p>LOREM;
